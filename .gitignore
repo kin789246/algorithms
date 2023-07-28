@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# build folder
+**/build
+
+# vscode folder
+.vscode
+
+# McOS
+.DS_Store
