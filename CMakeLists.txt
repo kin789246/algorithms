@@ -4,7 +4,7 @@ project(algorithms VERSION 0.1.0)
 include(CTest)
 enable_testing()
 set(SRC_FILES
-   merge-sort.cpp
+   fibonacci-search.cpp
    )
 add_executable(${PROJECT_NAME} ${SRC_FILES})
 
